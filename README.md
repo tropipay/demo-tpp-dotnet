@@ -13,7 +13,7 @@ Simple demo web API with client credential authentication for TropiPay based on 
 - dotnet dev-certs https --trust
 
 ## Run steps 
-- git clone https://github.com/ameksike/deno-tpp-dotnet.git
+- git clone https://github.com/ameksike/demo-tpp-dotnet.git
 - cd deno-tpp-dotnet
 - dotnet run 
 - https://localhost:7089/profile
