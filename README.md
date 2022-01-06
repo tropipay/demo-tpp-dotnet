@@ -4,8 +4,8 @@ Simple demo web API with client credential authentication for TropiPay based on 
 **Note:** the credentials are specified in the ```appsettings.Development.json``` or ```appsettings.json``` file, using the lcaves named *ClientId* and *ClientSecret*.
 
 ## Develop steps 
-- dotnet new webapi --name deno-tpp-dotnet
-- cd deno-tpp-dotnet
+- dotnet new webapi --name demo-tpp-dotnet
+- cd demo-tpp-dotnet
 
 - dotnet dev-certs https --clean
 - dotnet dev-certs https -t
