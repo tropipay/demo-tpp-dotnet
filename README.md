@@ -17,6 +17,7 @@ Simple demo web API with client credential authentication for TropiPay based on 
 - cd demo-tpp-dotnet
 - dotnet run 
 - https://localhost:7089/profile
+- https://localhost:7089/swagger/index.html
 
 ## Docs
 - For more information about ASP Net, see the [link below](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-6.0&tabs=visual-studio-code).
